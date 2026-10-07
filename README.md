@@ -291,26 +291,6 @@ A responsive front-end project focused on recreating a clean card-based interfac
 
 ---
 
-# `> current_focus`
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  █ React & Modern Front-End                 │
-│  █ JavaScript Development                   │
-│  █ Python & Automation                     │
-│  █ AI Prompt Engineering                   │
-│  █ Cybersecurity                            │
-│  █ Linux & Kali Linux                      │
-│  █ Networking Fundamentals                 │
-│  █ UI / Visual Design                      │
-│  █ Building Real-World Projects            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
 # `> development_philosophy`
 
 ```text
@@ -326,36 +306,6 @@ A responsive front-end project focused on recreating a clean card-based interfac
 
 > **The goal isn't to know everything.
 > The goal is to keep becoming better at building.**
-
----
-
-# `> code`
-
-```javascript
-const developer = {
-    name: "Ayano",
-
-    role: [
-        "Front-End Developer",
-        "React Developer",
-        "Python Developer",
-        "AI Prompt Engineer",
-        "Cybersecurity Enthusiast",
-        "Visual Designer"
-    ],
-
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Linux",
-        "Automation",
-        "Design"
-    ],
-
-    mindset: "Build. Learn. Improve."
-};
-```
 
 ---
 
@@ -376,92 +326,6 @@ const developer = {
 <img src="https://streak-stats.demolab.com?user=ayano715-wep&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
----
-
-# `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayano715-wep&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-# `> learning`
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  [01] React & Front-End Engineering                │
-│  [02] Python Development & Automation              │
-│  [03] AI & Prompt Engineering                      │
-│  [04] Linux & System Administration                │
-│  [05] Cybersecurity & Networking                   │
-│  [06] UI / UX & Visual Design                      │
-│  [07] Real-World Software Projects                 │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# `> the_formula`
-
-<div align="center">
-
-### `CODE`
-
-⬇
-
-### `AI`
-
-⬇
-
-### `SECURITY`
-
-⬇
-
-### `DESIGN`
-
-⬇
-
-### `DIGITAL EXPERIENCE`
-
-</div>
-
-I believe great digital products are created when **development, artificial intelligence, security, and design** work together.
-
----
-
-# `> beyond_code`
-
-Technology is not only about writing code.
-
-It's about understanding problems, finding better solutions, and creating experiences that people can actually use.
-
-My goal is to continuously improve across:
-
-**Code × AI × Security × Design**
-
----
-
-# `> goals`
-
-```text
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│  ▸ Build stronger real-world projects            │
-│  ▸ Become stronger in React & Front-End          │
-│  ▸ Build useful Python tools                     │
-│  ▸ Deepen cybersecurity knowledge                │
-│  ▸ Improve AI & Prompt Engineering skills        │
-│  ▸ Create better visual experiences               │
-│  ▸ Contribute to open source                     │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
 
 ---
 
