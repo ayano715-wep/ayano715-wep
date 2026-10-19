@@ -12,7 +12,7 @@
 
 🔭 &nbsp;I'm currently working on **Menuva Project**  
 🌱 &nbsp;I'm currently learning **Back-End , Sql**  
-💬 &nbsp;Ask me about **React , js , Html , Css , Python , Figma , Ai Agent , Cyber Security**
+💬 &nbsp;Ask me about **React , js , Html , Css , Python , Figma , Ai, Cyber Security**
 
 ### 🛠️ Tech Stack
 
